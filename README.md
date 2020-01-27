@@ -1,2 +1,3 @@
 # 01-Guessing
 First Project
+This repository is a game in which the program chooses a random number between 1 and 100, and the player tries to guess which number the program chose. If the player's guess is too low, the program will tell the player their guess is too low, and if it's too high, it will tell the player it is too high. Once the player successfully guesses the number, the program will congratulate the player, and ask if they want to play again. If yes, the program will repeat. If no, the program will say goodbye and close.
